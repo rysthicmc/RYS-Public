@@ -18,8 +18,10 @@
 						{"w": {"type": "label","font_scale_factor": 1.2,"text": "§l§dRysthic §5AntiCheat §f[§cv§41.0§f]"}}
 					]
 				}
-			},
-	"copyright@common_buttons.light_content_button": {
+			}
+        ]
+    },
+	    "copyright@common_buttons.light_content_button": {
 		"anchor_from": "bottom_left",
 		"anchor_to": "bottom_left",
 		"size": [200,26],
