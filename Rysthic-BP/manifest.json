@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "§¶§dRysthic §5AntiCheat §bBP",
+      "description": "§¶§cv§41.0",
+      "uuid": "2650743f-d00b-6d45-c628-2cc8fb38c86b",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "min_engine_version": [
+        1,
+        17,
+        0
+      ]
+    },
+    "modules": [
+      {
+        "type": "data",
+        "uuid": "22f08e42-6961-5cbc-bd4d-6de6d59d5d74",
+        "version": [
+          1,
+          0,
+          0
+        ]
+      }
+    ]
+  }
