@@ -1,0 +1,31 @@
+{
+	"namespace": "start",
+
+	"uipp_panel": {
+		"type": "stack_panel",
+		"orientation": "horizontal",
+		"size": ["100%",256],
+		"offset": [4,4],
+		"controls": [
+			{
+				"l":{
+					"type": "stack_panel",
+					"size": [136,"100%"],
+					"controls": [
+						{"z": {"type": "image","texture": "textures/ui/title","size": [128,128]}},
+						{"y": {"type": "panel","size": [6,6]}},
+						{"x": {"type": "label","font_scale_factor": 1.5,"text": ""}},
+						{"w": {"type": "label","font_scale_factor": 1.2,"text": "§l§dRysthic §5AntiCheat §f[§cv§41.0§f]"}}
+					]
+				}
+			},
+	"copyright@common_buttons.light_content_button": {
+		"anchor_from": "bottom_left",
+		"anchor_to": "bottom_left",
+		"size": [200,26],
+		"$pressed_button_name": "button.menu_buy_game",
+		"$button_content": "start.uipp_start",
+		"$default_button_alpha": 0.5,
+		"$default_hover_alpha": 0.5
+	}
+}
