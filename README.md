@@ -8,11 +8,5 @@
     <img src="https://img.shields.io/badge/RYS-v1.0.1-blueviolet" alt="Rysthic Version">
     <img src="https://img.shields.io/github/downloads/rysthicmc/RYS-Public/total?color=blueviolet&label=Downloads&logo=github&logoColor=blueviolet" alt="Downloads">
   </p>
-</div>
 
-
-<div align="center">
 ## Info
-  
-  
-</div>
