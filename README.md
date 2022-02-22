@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img width="600" src="https://media.discordapp.net/attachments/942675435974701076/945131514142818375/945101157385261067.png" alt="Rysthic Logo">
+    <img width="600" src="https://media.discordapp.net/attachments/940045428039254068/945086031420600320/3f3a2d6cb639b81576a96e86ff3d5dd1-removebg-preview.png" alt="Rysthic Logo">
   </p>
   
   <p>
