@@ -14,4 +14,4 @@
 
 ## Devs
 
-- [D4Rk Akuma](https://twitter.com/akuma_d4rk)
+  [D4Rk Akuma](https://twitter.com/akuma_d4rk)
