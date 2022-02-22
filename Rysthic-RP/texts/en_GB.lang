@@ -1,0 +1,4 @@
+multiplayer.player.joined=§8[§a+§8]§d %s
+multiplayer.player.joined.realms=§8[§a+§8]§d %s
+multiplayer.player.left=§8[§c-§8]§d %s
+multiplayer.player.left.realms=§8[§c-§8]§d %s
