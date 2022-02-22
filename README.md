@@ -6,9 +6,9 @@
 
   <p>
     <img src="https://img.shields.io/badge/RYS-v1.0.1-blueviolet" alt="Rysthic Version">
-    <img src="https://img.shields.io/github/downloads/rysthicmc/RYS-Public/total?color=blueviolet&label=Downloads&logo=github&logoColor=blueviolet" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/rysthicmc/RYS-Public/total?color=blueviolet&label=Downloads&logo=github" alt="Downloads">
     <br>
-    <img src="https://img.shields.io/github/license/rysthicmc/RYS-Public?color=blueviolet&logo=github" alt="GLU License">
+    <img src="https://img.shields.io/github/License/rysthicmc/RYS-Public?color=blueviolet&logo=github" alt="GLU License">
   </p>
 
 ## Info
