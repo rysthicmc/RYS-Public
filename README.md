@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/github/downloads/rysthicmc/RYS-Public/total?color=blueviolet&label=Downloads&logo=github" alt="Downloads">
     <br>
     <img src="https://img.shields.io/github/license/rysthicmc/RYS-Public?color=blueviolet&label=License&logo=github" alt="GLU License">
+    <img src="https://img.shields.io/discord/940045427561087057?color=blueviolet&label=Rysthic&logo=discord&logoColor=white" alt="Discord">
   </p>
 
 ## Info
