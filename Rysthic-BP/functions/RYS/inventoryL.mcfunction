@@ -36,5 +36,3 @@ replaceitem entity @s slot.hotbar 6 nether_star 1 0 {"minecraft:item_lock":{"mod
 replaceitem entity @s slot.hotbar 7 nether_star 1 0 {"minecraft:item_lock":{"mode":"lock_in_inventory"},"minecraft:keep_on_death":{}}
 replaceitem entity @s slot.hotbar 8 nether_star 1 0 {"minecraft:item_lock":{"mode":"lock_in_inventory"},"minecraft:keep_on_death":{}}
 replaceitem entity @s slot.weapon.offhand 0 air
-
-//This is not meant to be seen
