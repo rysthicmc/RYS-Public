@@ -18,3 +18,6 @@
 
   
 ## Disclaimer
+  <p align="left">
+    - Rysthic is in BETA testing!
+  </p>
