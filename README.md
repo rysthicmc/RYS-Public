@@ -12,4 +12,6 @@
     <a href="https://discord.gg/nSKNhuPsh9"><img src="https://img.shields.io/discord/940045427561087057?color=blueviolet&label=Rysthic&logo=discord&logoColor=white" alt="Discord"></a>
   </p>
 
-## Info
+## Devs
+
+- [D4Rk Akuma](https://twitter.com/akuma_d4rk)
